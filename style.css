@@ -1,9 +1,21 @@
 i{
     color: rgb(15, 15, 167);
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+b{
+    font-size: 20px;
 }
 .a p{
     text-align: justify;
 }
 .a{
-    margin: 20px 10px;
+    margin: 20px 15px;
+}
+.b{
+    margin: 20px 15px;
+    text-align: justify;
 }
