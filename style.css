@@ -19,3 +19,14 @@ b{
     margin: 20px 15px;
     text-align: justify;
 }
+img{
+    height: 400px;
+    width: 330px;
+    margin: 10px;
+}
+.c{
+    text-align: center;
+}
+.c p{
+    margin: 0px 20px;
+}
